@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathibha</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/prathibha13](https://github.com/prathibha13)
+- 👨‍💻 All of my projects are available at [https://github.com/prathibha13?tab=repositories](https://github.com/prathibha13?tab=repositories)
 
 - 📫 How to reach me **prathibhaks4@gmail.com**
 
